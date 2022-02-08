@@ -26,4 +26,4 @@ client.on('messageCreate', msg => {
  msg.reply('https://cdn.discordapp.com/attachments/809694292288602124/939102674811490314/sbob_movie-1.mp4');
  }
  });
-client.login('OTQwMTcyNTI0ODQ5ODcyOTA2.YgDh5Q._LZSIj6-gXNrtdqJz5euMtLvPio');
+client.login('My-Token');
